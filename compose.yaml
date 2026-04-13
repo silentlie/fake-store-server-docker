@@ -11,7 +11,7 @@ services:
   server:
     build:
       context: ./fake-store-server
-      dockerfile: Dockerfile
+      dockerfile: ../Dockerfile
     environment:
       NODE_ENV: production
     ports:
