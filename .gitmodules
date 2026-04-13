@@ -1,0 +1,3 @@
+[submodule "fake-store-server"]
+	path = fake-store-server
+	url = https://github.com/LarryAtGU/fake-store-server
